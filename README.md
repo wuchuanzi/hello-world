@@ -1,9 +1,4 @@
 # hello-world
 just a repository
-public class Test{
 
-  public void main(String[]){
-  System.out.print("Hello World!");
-  }
-
-}
+this is a test for github firstly,but maybe there are many new problems getted!
